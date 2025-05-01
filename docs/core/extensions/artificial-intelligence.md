@@ -274,7 +274,7 @@ In this way, the `RateLimitingEmbeddingGenerator` can be composed with other `IE
 
 - [Develop .NET applications with AI features](../../ai/get-started/dotnet-ai-overview.md)
 - [Unified AI building blocks for .NET using Microsoft.Extensions.AI](../../ai/ai-extensions.md)
-- [Build an AI chat app with .NET](/dotnet/ai/quickstarts/build-chat-app)
+- [Build an AI chat app with .NET](../../ai/quickstarts/build-chat-app.md)
 - [.NET dependency injection](dependency-injection.md)
 - [Rate limit an HTTP handler in .NET](http-ratelimiter.md)
 - [.NET Generic Host](generic-host.md)
